@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'James Richards'
+author 'theonlygg7'
 description 'Black Market Script with Money Laundering'
 version '1.2.0'
 
